@@ -1,5 +1,5 @@
 <h1 align="center">jacekpoz</h1>
-<img align="center" src="https://avatars.githubusercontent.com/u/64381190?v=4" alt="jacekpoz" height="10" width="10" />
+<img align="center" src="https://avatars.githubusercontent.com/u/64381190?v=4" alt="jacekpoz" height="20" width="20" />
 <h3 align="center">𓀐yeah𓀐</h3>
 
 <h3 align="left">my accounts</h3>

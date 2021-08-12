@@ -1,5 +1,5 @@
 <h1 align="center">jacekpoz</h1>
-<h3 align="center">𓀐yeah𓀐</h3>
+<h3 align="center">yeah</h3>
 
 <h3 align="left">my accounts</h3>
 <p align="left">

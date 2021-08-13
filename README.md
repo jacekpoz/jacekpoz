@@ -4,7 +4,7 @@
 <h3 align="left">my accounts</h3>
 <p align="left">
 <a href="https://twitter.com/jacekpoz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jacekpoz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jacekpoz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jacekpoz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpUdLvqknhyuhEY8vTQkbQA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jacekpoz" height="30" width="40" /></a>
 <a href="https://github.com/MicroPanda123" target="blank">account of my fren :troll4k:</a>
 </p>
 

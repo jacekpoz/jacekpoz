@@ -1,5 +1,5 @@
-<h1 align="center">jacekpoz</h1>
-<h3 align="center">yeah</h3>
+<h1 align="left">jacekpoz</h1>
+<h3 align="left">yeah</h3>
 <table>
   <tr>
     <td>
@@ -7,4 +7,6 @@
     </td>
   </tr>
 </table>
+
+>[`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 

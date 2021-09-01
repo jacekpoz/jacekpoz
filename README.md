@@ -5,6 +5,9 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacekpoz&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
     </td>
+    <td
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacekpoz" alt="Broken stats?">
+    </td>
   </tr>
 </table>
 
